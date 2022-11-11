@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T15:20:32.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="m4RHLKmehJztFEzWUpd-" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T18:51:32.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FX2gEcZLm27o8O21BvgZ" version="20.5.3" type="github">
   <diagram id="JKbFgIILI06YHzk6iJCN" name="Page-1">
-    <mxGraphModel dx="1321" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LvxweqMCYUKIBSSi14HW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvxweqMCYUKIBSSi14HW-2" target="LvxweqMCYUKIBSSi14HW-3">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LvxweqMCYUKIBSSi14HW-2" target="LvxweqMCYUKIBSSi14HW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-2" value="başla" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-2" value="başla" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="384" y="158" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvxweqMCYUKIBSSi14HW-3" target="LvxweqMCYUKIBSSi14HW-7">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LvxweqMCYUKIBSSi14HW-3" target="LvxweqMCYUKIBSSi14HW-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="308" />
@@ -18,18 +18,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-3" value="sayı,fak=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-3" value="sayı,fak=1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="366" y="228" width="96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="LvxweqMCYUKIBSSi14HW-12" target="LvxweqMCYUKIBSSi14HW-11">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="LvxweqMCYUKIBSSi14HW-12" target="LvxweqMCYUKIBSSi14HW-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-7" value="sayı" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-7" value="sayı" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="318" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvxweqMCYUKIBSSi14HW-11">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LvxweqMCYUKIBSSi14HW-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="388" as="targetPoint" />
             <Array as="points">
@@ -38,43 +38,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvxweqMCYUKIBSSi14HW-11" target="LvxweqMCYUKIBSSi14HW-24">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LvxweqMCYUKIBSSi14HW-11" target="LvxweqMCYUKIBSSi14HW-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-11" value="sayı==1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-11" value="sayı==1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="538" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-18" value="sayı--" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-18" value="sayı--" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="468" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-12" value="fak=fak*sayı" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-12" value="fak=fak*sayı" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="398" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="LvxweqMCYUKIBSSi14HW-7" target="LvxweqMCYUKIBSSi14HW-12">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" parent="1" source="LvxweqMCYUKIBSSi14HW-7" target="LvxweqMCYUKIBSSi14HW-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="378" as="sourcePoint" />
             <mxPoint x="410" y="538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvxweqMCYUKIBSSi14HW-24" target="LvxweqMCYUKIBSSi14HW-26">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LvxweqMCYUKIBSSi14HW-24" target="LvxweqMCYUKIBSSi14HW-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-24" value="fak&lt;br&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-24" value="fak&lt;br&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="638" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-26" value="bitir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-26" value="bitir" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="693" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-28" value="hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-28" value="hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="558" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-29" value="evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-29" value="evet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="414" y="598" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-30" value="6. Girilen sayının faktöriyelini bulan programın algoritma ve akış diyagramını çiziniz. &lt;br/&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-30" value="6. Girilen sayının faktöriyelini bulan programın algoritma ve akış diyagramını çiziniz. &lt;br/&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-85" y="25" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LvxweqMCYUKIBSSi14HW-31" value="&lt;br&gt;Başla&lt;br&gt;2- sayi,fak=1&lt;br&gt;3- sayi gir&lt;br&gt;4-fak=fak*sayi&lt;br&gt;5- sayi --&lt;br&gt;6- Eğer sayi=1 ise devam et ,&lt;br&gt; değilse 4’e git&lt;br&gt;7- Yazdır fak&lt;br&gt;8- Bitir&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LvxweqMCYUKIBSSi14HW-31" value="&lt;br&gt;Başla&lt;br&gt;2- sayi,fak=1&lt;br&gt;3- sayi gir&lt;br&gt;4-fak=fak*sayi&lt;br&gt;5- sayi --&lt;br&gt;6- Eğer sayi=1 ise devam et ,&lt;br&gt; değilse 4’e git&lt;br&gt;7- Yazdır fak&lt;br&gt;8- Bitir&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="158" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
